@@ -3,7 +3,7 @@
 Implementation and Improvement of data extraction and model training pipeline for WMF fraud detection.
 
 ## Requirements
-* Python 2.7
+* Python 3.8
 * Pip
 * Scikit Learn
 * Numpy
